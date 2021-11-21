@@ -1,0 +1,7 @@
+homepageurl: https://v.je/a1/index.php
+
+adminuser:hani@admin.com
+adminpass: hani
+
+nonadminuser: hannah@example.com
+nonadminpassword: 12345
